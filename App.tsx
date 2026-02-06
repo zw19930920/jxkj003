@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Navbar from './components/Navbar';
+import Navbar from '.Navbar';
 import Hero from './components/HeroSection';
 import ProductShowcase from './components/ProductShowcase';
 import TechExplodedView from './components/TechExplodedView';
